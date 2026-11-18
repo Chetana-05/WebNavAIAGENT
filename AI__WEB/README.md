@@ -1,5 +1,5 @@
 # Web Navigator AI Agent — Multi-Store Product & Price Comparison
-### TCS Hackathon Submission · Team AgentXplorer
+### Team AgentXplorer
 
 A high-performance web automation and product comparison agent that accepts natural-language product queries and simultaneously scrapes, parses, and compares listings across **4 major Indian e-commerce platforms**:
 - **Amazon India** (`amazon.in`)
